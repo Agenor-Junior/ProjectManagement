@@ -5,9 +5,6 @@
 An introduction to the terminology, life cycles, and core processes involved in the management of IT projects. Students also learn the responsibilities of a project manager during the development and implementation of an IT project and the required skill sets needed to successfully meet these responsibilities.  
 Theory is supported by hands-on practice with the software, tools, and techniques involved in project management. Students gain a basic understanding of scheduling tools and the processes that are part of the **Project Management Body of Knowledge (PMBOK).**
 
-## Credit Status
-One credit in the CPP program.
-
 ## Learning Outcomes
 Upon successful completion of this subject, the student will be able to:
 
