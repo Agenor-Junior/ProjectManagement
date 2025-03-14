@@ -166,3 +166,158 @@
 - [Glassdoor](https://www.glassdoor.com/) – Job reviews, salary insights, and job market trends.
 - [Bureau of Labor Statistics (BLS)](https://www.bls.gov/) – Job growth projections and industry statistics.
 - [LinkedIn Learning](https://www.linkedin.com/learning/) – Courses on job searching, networking, and career transitions.
+
+#### Map 1
+```plantuml
+@startmindmap
+*[#Orange] Personality Tests for Job Search
+  *[#lightgreen] Find Good Personality Tests
+    *[#FFBBCC] Look for free tests online (Myers-Briggs, Big Five)
+      *[#FF8888] Risk: Some tests may be inaccurate
+    *[#lightblue] Read reviews and experiences from others
+      *[#88BBFF] Dependency: Need a list of tests first
+    *[#FFBBCC] Choose 2-3 tests to take
+      *[#88BBFF] Dependency: Research must be completed
+  *[#lightgreen] Take the Tests
+    *[#FFBBCC] Find a quiet time for each test
+      *[#FF8888] Risk: External distractions may affect accuracy
+    *[#lightblue] Answer honestly
+    *[#FFBBCC] Save my results
+      *[#88BBFF] Dependency: Tests must be completed first
+  *[#lightgreen] Look at My Results
+    *[#FFBBCC] Find common themes in all test results
+      *[#88BBFF] Dependency: Must have test results saved
+    *[#lightblue] List my top 5 strengths
+    *[#FFBBCC] Write down jobs that match my personality
+      *[#FF8888] Risk: Results may not align with real job expectations
+    *[#lightblue] Check if results match what I know about myself
+  *[#lightgreen] Make a One-Page Strength Summary
+    *[#FFBBCC] Write main personality traits
+    *[#lightblue] List work preferences (teamwork, independent, etc.)
+    *[#FFBBCC] Add examples of when I used these strengths
+      *[#88BBFF] Dependency: Must have identified strengths first
+    *[#lightblue] Format it nicely for reference
+  *[#lightgreen] Find Jobs that Match Me
+    *[#FFBBCC] Use job suggestions from test results
+      *[#FF8888] Risk: Limited job options from tests
+    *[#lightblue] Search for matching jobs on JobBank Canada
+    *[#FFBBCC] Make a list of preferred jobs
+    *[#lightblue] Learn about daily tasks in these jobs
+  *[#lightgreen] Update Resume & Job Documents
+    *[#FFBBCC] Add strengths to my resume
+      *[#88BBFF] Dependency: Must have identified strengths first
+    *[#lightblue] Prepare examples of strengths for interviews
+    *[#FFBBCC] Tailor cover letters to highlight strengths
+  *[#lightblue] Review and refine documents for each job application
+@endmindmap
+```
+#### Map 2
+```plantuml
+@startmindmap
+
+*[#Orange] Career Development Plan (Programmer)
+  *[#lightgreen] Self-Discovery & Career Exploration
+    *[#FFBBCC] Check academic transcription
+    *[#FFBBCC] Research positions in IT field
+    *[#FFBBCC] Find strength based on high GPA subject
+    *[#FFBBCC] Previous project that I had fun
+    *[#FFBBCC] Find common with my previous experience or interest
+  *[#lightgreen] Job Search & Career Growth
+    *[#lightblue] Search basic knowledge about the position
+    *[#lightblue] Canada Job Bank
+    *[#lightblue] LinkedIn
+    *[#lightblue] Job sites
+      *[#FFBBCC] Glassdoor
+        *[#lightblue] Company reviews
+        *[#lightblue] Interview questions
+        *[#lightblue] Pay range
+    *[#lightblue] Referral
+      *[#FFBBCC] Networking
+  *[#lightgreen] Job Posting
+    *[#lightblue] Job description
+      *[#FFBBCC] Responsibilities
+    *[#lightblue] Technical skills (programming tools)
+    *[#lightblue] Tools required
+      *[#FFBBCC] Software (PowerBI, MS Office)
+  *[#lightgreen] Career Planning & Goal Setting
+    *[#lightblue] Research Career Path
+    *[#lightblue] LinkedIn Networking
+      *[#FFBBCC] Professionals
+      *[#FFBBCC] Resume
+      *[#FFBBCC] Joining community
+        *[#lightblue] Study group / TPL
+        *[#lightblue] Discord (ex. developer server)
+      *[#FFBBCC] Mentor
+      *[#FFBBCC] Networking
+        *[#lightblue] Find company pages you are interested
+        *[#lightblue] Find people who work at the company
+        *[#lightblue] Cold call/message
+
+@endmindmap
+```
+
+#### Map 3
+```plantuml
+@startmindmap
+*[#Orange] Career Planning & Goal Setting
+  *[#lightgreen] Identify Career Aspirations
+    *[#FFBBCC] Self-assessment of skills & strengths
+      *[#FF8888] Risk: Lack of clarity about strengths
+    *[#lightblue] Research industry opportunities
+      *[#88BBFF] Dependency: Requires self-assessment results
+      *[#FF8888] Risk: Industry trends may change
+  *[#lightgreen] Define Career Goals
+    *[#FFBBCC] Set SMART short-term goals
+      *[#88BBFF] Dependency: Requires self-assessment
+    *[#lightblue] Set SMART long-term goals
+      *[#88BBFF] Dependency: Short-term goals must be set first
+    *[#FFBBCC] Ensure alignment with personal values
+  *[#lightgreen] Create a Career Roadmap
+    *[#FFBBCC] Visualize milestones & timelines
+      *[#FF8888] Risk: Unrealistic expectations
+    *[#lightblue] Seek mentorship feedback
+      *[#88BBFF] Dependency: Roadmap draft must be prepared first
+  *[#lightgreen] Action Plan for Growth
+    *[#FFBBCC] Develop missing skills
+      *[#88BBFF] Dependency: Requires skill gap identification
+    *[#lightblue] Earn certifications
+      *[#88BBFF] Dependency: Identified skill gaps
+      *[#FF8888] Risk: Cost and time constraints
+    *[#FFBBCC] Network with professionals
+      *[#FF8888] Risk: Limited access to industry connections
+@endmindmap
+```
+#### Map 4
+```plantuml
+@startmindmap
+*[#Orange] Job Research & Market Analysis
+  *[#lightgreen] Explore Job Opportunities
+    *[#FFBBCC] Use O*NET & Glassdoor
+      *[#FF8888] Risk: Information may be outdated
+    *[#lightblue] Identify matching job roles
+      *[#88BBFF] Dependency: Need to complete self-assessment
+  *[#lightgreen] Analyze Job Requirements
+    *[#FFBBCC] Compare skill expectations
+      *[#FF8888] Risk: Some skills may require long training
+    *[#lightblue] Evaluate salary & job demand
+      *[#88BBFF] Dependency: Job roles identified first
+  *[#lightgreen] Identify Skill Gaps
+    *[#FFBBCC] Research required certifications
+      *[#FF8888] Risk: Certifications may be expensive
+    *[#lightblue] Find relevant training programs
+      *[#88BBFF] Dependency: Skill gaps identified
+  *[#lightgreen] Networking & Market Insights
+    *[#FFBBCC] Connect with professionals
+      *[#FF8888] Risk: Limited professional network
+    *[#lightblue] Follow industry trends
+      *[#88BBFF] Dependency: Job roles identified
+  *[#lightgreen] Job Application Preparation
+    *[#FFBBCC] Customize resume based on job research
+      *[#88BBFF] Dependency: Must know job requirements first
+    *[#lightblue] Prepare responses for interviews
+    *[#FFBBCC] Update LinkedIn profile with relevant skills
+      *[#FF8888] Risk: Recruiters may not notice the updates
+@endmindmap
+```
+
+
